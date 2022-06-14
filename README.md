@@ -1,14 +1,14 @@
 # Team-jm3-Advanced-Classification-Base-Notebook
 ## Project Overview
-Climate change is a global problem. Everywhere, governments, companies and other concerned groups are constantly exploring ways to reduce carbon footprints by reducing emmisions of carbon per person as much as possible. The main sources of energy used in the world today are carbon fuels and this reality creates a dilema in our world. The worlds socio-economic system rely heavily on energy and while every body wants to be responsible and leave as low a carbon foot print as possible, the reality remains that energy makes the world go round and in the real world, there is a direct correlation between Industrilization/developmemnt and energy consumption. 
+Climate change is a global problem. Everywhere, governments, companies and other concerned groups are constantly exploring ways to reduce carbon footprints by reducing emissions of carbon per person as much as possible. The main sources of energy used in the world today are carbon fuels and this reality creates a dilema in our world. The worlds socio-economic systems rely heavily on energy and, while every body wants to be responsible and leave as low a carbon footprint as possible, the reality remains that energy makes the world go round and in the real world, there is a direct correlation between Industrilization/developmemnt and energy consumption. 
 
 ## Team members 
-Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE DS academy.
+Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE DS Academy.
 - Prince Okon
 - Marvic Cocouvi
 - Abiemwense Omokaro
 - Buhari Shehu
-- Nqosa Lehloenya 
+- Nqosa Lehloenya E 
 - Kefa Kiprono
 
 ## Project Goal
@@ -39,7 +39,7 @@ All teammates have been added as collaborators in the project, and the steps for
 
 1. Clone the repo
 2. Create a branch using your name
-3. Do the neccnecessaryts in your work
+3. Do the necessary changes in your work
 4. Commit the changes to `your branch`
 5. Push your modified branch back to GitHub still on `your branch`
 6. Discuss merging `your branch` branch with `main` with the team during team meetings
