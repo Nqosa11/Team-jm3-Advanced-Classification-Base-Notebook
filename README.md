@@ -8,7 +8,7 @@ Below is a list of all the members of this team who are to participate in this p
 - Marvic Cocouvi
 - Abiemwense Omokaro
 - Buhari Shehu
-- Nqosa Lehloenya E 
+- Nqosa Lehloenya
 - Kefa Kiprono
 
 ## Project Goal
@@ -32,7 +32,7 @@ The collection of this data was funded by a Canada Foundation for Innovation JEL
 ### Jupyter Note book File (Project Base file)
 The jupyter notebook in this repository is a detailed documentation of the technical steps taken to complete the defined task in this project. The notebook in this repository is the Base jupyter notebook, on which we shall rely to generate and update submissions of our models performance on Kaggle.
 
-This file will be worked on and improved upon by all team members with the aim of reaching the goals and accomplishing the tasks set out as the goals of the project outlined. By Assessing the contributions of all team members, we shall hopefully generate a final model whchwhichbetter at gauging the sentiments of twitTwitterrs in relation to the subject of climate change. This information will form the bases for decisions to be made by these companies to achieve their coopcooperativels. 
+This file will be worked on and improved upon by all team members with the aim of reaching the goals and accomplishing the tasks set out as the goals of the project outlined. By Assessing the contributions of all team members, we shall hopefully generate a final model which better at gauging the sentiments of twitTwitterrs in relation to the subject of climate change. This information will form the bases for decisions to be made by these companies to achieve their cooperatives. 
 
 ### How to work on the base file as a Collaborator
 All teammates have been added as collaborators in the project, and the steps for active participation in the project are detailed below:
